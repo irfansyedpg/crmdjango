@@ -1,8 +1,4 @@
 
-from re import T
-from statistics import mode
-from tkinter import CASCADE
-from unicodedata import decimal, name
 from django.db import models
 
 from django.contrib.auth.models import User
